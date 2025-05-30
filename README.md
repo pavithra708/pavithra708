@@ -5,7 +5,7 @@
 
 <!-- Girl Using Laptop Image -->
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/011/344/365/non_2x/young-girl-using-laptop-while-sitting-on-the-chair-3d-character-illustration-png.png" width="350" alt="Girl Coding">
+  <img src="https://github.com/user-attachments/assets/34f87e98-3051-4b6c-8288-35011dbd0342" width="350" alt="Girl Coding">
 </p>
  
 # 👋 Hola, I'm Pavithra Revankar!  
