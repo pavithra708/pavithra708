@@ -17,7 +17,7 @@ A passionate **Full Stack Developer** and **Machine Learning Enthusiast** who en
 ## 🧠 Coding Journey
 
 - 💡 Currently exploring: **Machine Learning, Deep Learning, and Data Science**
-- 👩‍💻 Working on projects that combine **ML + Web Technologies**
+- 👩‍💻 All of my projects are available at https://bit.ly/pavithra-revankar
 - 💬 Ask me about: `JavaScript`, `React`, `Python`, `ML Basics`,`DSA`
 - 📫 Reach me at: **pavithrarevankar70@gmail.com**
 
