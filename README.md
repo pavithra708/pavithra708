@@ -24,8 +24,15 @@ A passionate **Full Stack Developer** and **Machine Learning Enthusiast** who en
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/pavithra-revankar-3b569b2b9)  
-[![LeetCode](https://img.icons8.com/ios-filled/50/fa314a/leetcode.png)](https://leetcode.com/u/pavithra_revankar/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavithra-revankar-3b569b2b9" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/pavithra_revankar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/>
+  </a>
+</p>
 📧 **Email:** pavithrarevankar70@gmail.com
 
 ---
