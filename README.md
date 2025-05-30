@@ -1,25 +1,25 @@
-
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+I'm+Abhi+Patel!;Full+Stack+Developer+%7C+Open+Source+Contributor;Always+Learning+%F0%9F%93%9A;Google+Summer+of+Code+%40+Rocket.Chat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+I'm+Pavithra+Revankar!;Full+Stack+Developer+%7C+ML+Enthusiast;Always+Learning+%F0%9F%93%9A;Building+cool+projects+everyday+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<!-- Girl Coding Image -->
+<!-- Girl Using Laptop Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300" alt="Girl Coding">
+  <img src="https://static.vecteezy.com/system/resources/previews/011/344/365/non_2x/young-girl-using-laptop-while-sitting-on-the-chair-3d-character-illustration-png.png" width="250" alt="Girl Coding">
 </p>
 ---
 
 # 👋 Hola, I'm Pavithra Revankar!  
 ### Glad to see you here 👀  
-A passionate **Full Stack Developer & Coder** who loves solving real-world problems and building cool stuff. Always ready to tackle new challenges 🚀
+A passionate **Full Stack Developer** and **Machine Learning Enthusiast** who enjoys learning new tech, solving real-world problems, and building awesome things 🚀
 
 ---
 
 ## 🧠 Coding Journey
 
-- 👨‍💻 Check out all my projects: [bit.ly/pavithra-revankar](https://bit.ly/pavithra-revankar)
-- 💬 Ask me about: `JavaScript`, `React`, `DSA`
+- 💡 Currently exploring: **Machine Learning, Deep Learning, and Data Science**
+- 👩‍💻 Working on projects that combine **ML + Web Technologies**
+- 💬 Ask me about: `JavaScript`, `React`, `Python`, `ML Basics`,`DSA`
 - 📫 Reach me at: **pavithrarevankar70@gmail.com**
 
 ---
@@ -49,8 +49,8 @@ A passionate **Full Stack Developer & Coder** who loves solving real-world probl
 ---
 
 ## 📈 GitHub Stats
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipatel0211&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhipatel0211&layout=compact&theme=tokyonight)
+![Pavithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavithra708&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra708&layout=compact&theme=tokyonight)
 
 ---
 
